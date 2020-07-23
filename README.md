@@ -20,14 +20,8 @@ Two publications provide the description of the dataset (including the structure
 
 The main focus of ALFA dataset is the processed data sequences. The list of the sequences is as followed: 
 
-<div class="datatable-begin"></div>
-<style>
-	th { font-size: 13px; }
-	td { font-size: 13px; }
-</style>
-
-\# | Sequence Name <span style="color: red;">*</span> | Failed Surface | Type of Failure | Emergency Reaction? <span style="color: red;">**</span> | Flight Time Pre-Failure (s) | Flight Time Post-Failure (s) | Total Time (s)
-- | ------------------------------------------------------ | --- | --------------- | -- | --- | --- | -----
+No | Sequence Name <span style="color: red;">*</span> | Failed Surface | Type of Failure | Emergency Reaction? <span style="color: red;">**</span> | Flight Time Pre-Failure (s) | Flight Time Post-Failure (s) | Total Time (s)
+-- | ------------------------------------------------------ | --- | --------------- | -- | --- | --- | -----
 1 | 2018-07-18-12-10-11 <span style="color: red;">†</span> | N/A | Full Power Loss | No | N/A | N/A | 205.5
 2 | 2018-07-18-15-53-31_1 <span style="color: red;">†</span> | Engine | Full Power Loss | No | 116.3 | 16 | 132.3
 3 | 2018-07-18-15-53-31_2 <span style="color: red;">†</span> | Engine | Full Power Loss | No | 73.4 | 15.3 | 88.7
@@ -75,8 +69,6 @@ The main focus of ALFA dataset is the processed data sequences. The list of the 
 45 | 2018-10-18-11-04-35 | Engine | Full Power Loss | Yes | 101.3 | 8 | 109.3
 46 | 2018-10-18-11-06-06 | Engine | Full Power Loss | Yes | 102.5 | 14 | 116.5
 47 | 2018-10-18-11-08-24 | No Failure | - | No | 26.4 | 0 | 26.4
-
-<div class="datatable-end"></div> 
 
 <span style="color: red;">*</span> The complete sequence name also includes *'carbonZ_' *at the beginning of the name in the table and the type of the failure at the end. Please refer to the dataset files for the complete names. 
 
