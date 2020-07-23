@@ -1,5 +1,7 @@
 # Air Lab Failure and Anomaly (ALFA) Dataset
 
+![ALFA-Dataset](https://raw.githubusercontent.com/castacks/alfa-dataset/master/alfa.jpg)
+
 The *Air Lab Failure and Anomaly* (*ALFA*) Dataset includes the data collected from tens of autonomous flights for failure detection and anomaly detection research. The data is provided in 4 collections:
 
 ***- Processed Data:*** 47 sequences of fully autonomous flight sequences with eight different types of faults happening during the flights. The files include the ground truth of the type and the time of the failure and are provided in the ROS **.bag** format, as well as in **.csv** and **.mat** formats. The original **.bag** files are recorded using the modified [mavros](http://wiki.ros.org/mavros) ROS package connected to the Pixhawk running the modified Ardupilot 3.9.0beta1 through [MAVLink 2.0](https://mavlink.io/en/) protocol. 
