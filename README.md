@@ -70,7 +70,7 @@ No | Sequence Name <span style="color: red;">*</span> | Failed Surface | Type of
 46 | 2018-10-18-11-06-06 | Engine | Full Power Loss | Yes | 102.5 | 14 | 116.5
 47 | 2018-10-18-11-08-24 | No Failure | - | No | 26.4 | 0 | 26.4
 
-<span style="color: red;">*</span> The complete sequence name also includes *'carbonZ_' *at the beginning of the name in the table and the type of the failure at the end. Please refer to the dataset files for the complete names. 
+<span style="color: red;">*</span> The complete sequence name also includes *'carbonZ_'* at the beginning of the name in the table and the type of the failure at the end. Please refer to the dataset files for the complete names. 
 
 <span style="color: red;">**</span> Some sequences include an emergency trajectory activated (a new trajectory replaces the previous one) as soon as the failure happens. 
 
